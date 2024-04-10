@@ -22,6 +22,7 @@ public class Veiculo {
     }
 
     // Métodos getter e setter para cada variável de instância
+    
     // Getter para a variável modelo
     public String getModelo() {
         return modelo;

@@ -128,7 +128,7 @@ public class Main {
         // Definição da cor de fundo da janela
         frame.getContentPane().setBackground(Color.LIGHT_GRAY);
     
-        // Definição do ícone da janela (substitua "icon.png" pelo caminho para o seu arquivo de ícone)
+        // Definição do ícone da janela
         frame.setIconImage(Toolkit.getDefaultToolkit().getImage("icon.png"));
     }
     
